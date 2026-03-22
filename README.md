@@ -15,7 +15,7 @@ git submodule add <repository_url> <directory_name>
 ```
 
 # Clonar repositorio desde la carpeta LAUNCHER (por primera vez)
-1. Ejecutar comandi `git clone <ruta_repositorio_a_clonar>`
+1. Ejecutar comando `git clone <ruta_repositorio_a_clonar_LAUNCHER>`
 2. Ejecutar comando para inicializar
 ```
 git submodule update --init --recursive
